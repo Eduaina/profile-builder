@@ -31,5 +31,6 @@ node profileBuilder.js
 ![Output 4](./assets/4.png)
 ![Output 5](./assets/5.png)
 ![Output 6](./assets/6.png)
-![Output 4](./assets/7.png)
-![Output 5](./assets/8.png)
+![Output 7](./assets/7.png)
+![Output 8](./assets/8.png)
+![Output 9](./assets/9.png)
