@@ -24,10 +24,12 @@ node profileBuilder.js
 ```
 
 ###  Screenshots
-<!-- 
-![Output 1](./assets/outputone.png)
-![Output 2](./assets/outputtwo.png)
-![Output 3](./assets/outputthree.png)
-![Output 4](./assets/outputfour.png)
-![Output 5](./assets/outputfive.png)
-![Output 6](./assets/outputsix.png) -->
+
+![Output 1](./assets/1.png)
+![Output 2](./assets/2.png)
+![Output 3](./assets/3.png)
+![Output 4](./assets/4.png)
+![Output 5](./assets/5.png)
+![Output 6](./assets/6.png)
+![Output 4](./assets/7.png)
+![Output 5](./assets/8.png)

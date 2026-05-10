@@ -56,7 +56,6 @@ const developers = [
 ];
 
 // Step 1: Profile Cards
-// Create a function called `buildProfileCard` that takes a developer object and returns a formatted string.
 
 const buildProfileCard = ({name, track, skills, projects:{completed, ongoing}, isAvailable, mentor}) => {
 
@@ -81,7 +80,6 @@ developers.map((developers) => {
 
 
 // Step 2: Unique Skills Pool
-// Collect ALL skills from ALL developers into one array, then remove duplicates.
 
 const skills = [
     ...new Set(
@@ -92,7 +90,6 @@ const skills = [
  console.log(skills);
 
 // Step 3: Track Summary
-// Generate a summary for each track showing: number of developers, number available, and total projects completed.
 
 const track = [
      ...new Set(
